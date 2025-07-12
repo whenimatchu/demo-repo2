@@ -8,6 +8,11 @@ adding this one right here
 
 adding this text right here
 
-# third change 
+# third change
 
 this should be pushed to github
+
+# text formatting
+
+**bold**
+_italic_
