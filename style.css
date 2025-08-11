@@ -89,7 +89,7 @@
   position: relative;
   width: 70%; /* Reduced from 90% */
   max-width: 400px; /* Reduced from 500px */
-  margin: 10vh auto; /* Increased top margin to lower the text */
+  margin: 15vh auto; /* Increased top margin to lower the text */
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 700;
   color: #ffffff;
@@ -137,15 +137,7 @@
   gap: 2rem;
 }
 
-/* Footer content */
-.mission-vision .footer {
-  width: 100%;
-  background-color: #252732;
-  padding: 2rem 0;
-  margin-top: auto;
-  color: #ffffff;
-  text-align: center;
-}
+
 
 .mission-vision .coat-of-arms-of-the {
   width: clamp(100px, 15vw, 164px);
